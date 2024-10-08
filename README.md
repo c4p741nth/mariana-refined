@@ -1,6 +1,8 @@
 # Mariana Refined Light & Dark Themes for VS Code
 
-![Mariana Refined VS Code theme](https://raw.githubusercontent.com/mani-sh-reddy/mariana-refined/main/screenshot.png)
+<p align="center" style="padding: 50px;">
+    <img src="screenshots.png">
+</p>
 
 ## Installation
 
