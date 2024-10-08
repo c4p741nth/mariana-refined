@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: 22
           registry-url: https://registry.npmjs.org/
 
       - name: Install the dependencies
@@ -28,7 +28,7 @@ jobs:
         run: git config user.email "${{ secrets.USER_EMAIL }}"
 
       - name: Setup git - user name
-        run: git config user.name "Manish Reddy"
+        run: git config user.name "Mani Reddy"
 
       - name: Install vsce
         run: npm i -g vsce
