@@ -1821,7 +1821,7 @@
     "button.secondaryBackground": "#3a3d41",
     "button.secondaryHoverBackground": "#45494e",
     //
-    "input.background": "#3c3c3c",
+    "input.background": "#2E3842",
     "input.border": "#00000000",
     "input.foreground": "#cccccc",
     "input.placeholderForeground": "#a6a6a6",

@@ -1,12 +1,16 @@
 # Change Log
 
-All notable changes to the "mariana-replica" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-## [0.0.1] - 2022-09-11
+## [0.1.0] - 2024-10-08
+### Changed
+- Mariana Refined - input.background
+- Mariana Light - statusBar
+- Mariana Light - statusBarItem
+- Mariana Light - Markdown Editor Colors
+- Theme Icon
+
+## [0.0.1] - 2022-09-12
 ### Added
 - Mariana Light Theme
 - Mariana Refined (Dark) Theme

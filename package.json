@@ -1,20 +1,20 @@
 {
   "name": "mariana-refined",
-  "displayName": "Mariana Refined",
-  "description": "Sublime Text's Default Dark theme",
+  "displayName": "Mariana Refined Theme",
+  "description": "Sublime Text's Default Light and Dark Themes for VS Code",
   "publisher": "mani-sh-reddy",
   "__metadata": {
     "publisherDisplayName": "mani-sh-reddy"
   },
-  "license": "The Unlicense",
-  "version": "0.0.10",
+  "license": "MIT",
+  "version": "0.1.0",
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#1e2227",
+    "color": "#232A33",
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^0.10.5"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mariana Refined",
+        "label": "Mariana Refined (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/mariana-refined-color-theme.json"
       },
@@ -33,10 +33,14 @@
       }
     ]
   },
+  "bugs": {
+    "url": "https://github.com/mani-sh-reddy/mariana-refined/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mani-sh-reddy/mariana-refined"
   },
+  "homepage": "https://github.com/mani-sh-reddy/mariana-refined",
   "keywords": [
     "theme",
     "mariana",
